@@ -1,0 +1,355 @@
+.Top1{
+    background-color: white;
+    widows: 45px; 
+    margin: 1px;
+    padding:2.5px ;
+    width: 98.8em;
+    height: 20em;
+
+
+}
+
+#carouselExampleControls{
+    width: 98.8em;
+    height: 19em;
+}
+.ty1{
+    background-color: white;
+    width: 13em;
+    height: 10.5em;
+    position: absolute;
+    top: 80em;
+    right: 70em;
+    border: 2px;
+    border-color: black;
+    border-style: dotted;
+
+}
+.ty2{
+    background-color: white;
+    width: 13em;
+    height: 10.5em;
+    position: absolute;
+    top: 80em;
+    right: 15em;
+    border: 2px;
+    border-color: black;
+    border-style: dotted;
+
+
+}
+
+.ty3{
+    background-color: white;
+    width: 13em;
+    height: 10.5em;
+    position: absolute;
+    top: 80em;
+    right: 43em;
+    border: 2px;
+    border-color: black;
+    border-style: dotted;
+
+
+}
+h6{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+}
+.allco{
+    color: white;
+    background-color:#936c6c;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: outline;
+}
+.shop{
+font-size: xx-large;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+position: absolute;
+top: 12em;
+right: 20em;
+
+}
+
+.side1{
+    position: absolute;
+    right: 45em;
+    bottom: 11em;
+    
+    
+}
+
+.side0{
+position: absolute;
+bottom: -23em;
+
+}
+.side2{
+    position: absolute;
+    right: 45em;
+    bottom: -18em;
+
+
+}
+.yu{
+    background-color: grey;
+}
+
+.side3{
+position: absolute;
+right:-44em;
+bottom: -3em;
+
+}
+
+.side4{
+position: absolute;
+top: -29em;
+
+}
+.titr{
+position: absolute;
+top: 11.6em;
+right: 11em;
+
+}
+.side-{
+position: absolute;
+bottom: 08em;
+height: auto !important;
+
+
+}
+
+
+
+
+.CONT{
+width: 99em;
+height: 18em;
+}
+
+.card09{
+position: absolute;
+top: -25em;
+}
+
+.card76{
+position: absolute;
+top: -22em;
+left: -13em;
+
+
+}
+
+.card20{
+position: absolute;
+bottom: -2em;
+left: -14em;
+
+
+}
+.WERT{
+box-shadow: 2px 2px 2px 2px black;
+color:black;
+position: absolute;
+top: 6em;
+right: 13em;
+
+}
+
+
+.LAST32{
+width: 5em;
+height: 12em;
+background-color: chartreuse;
+color: coral;
+
+
+}
+.forms{
+    width: 100%;
+    height: 10em;
+}
+
+.formgh{
+    width: 16em;
+    height: 8em;
+    position: absolute;
+    right: 5em;
+}
+.form-group{
+border: 3px 3px 3px 3px;
+border-color: black;
+border-style: ridge;
+}
+.ASW{
+width: 70em;
+height: 40em;
+background-color:wheat;
+border: 3px 3px 3px 3px orange;
+border-style: dotted;
+}
+    
+.allp1{
+    background-color: orangered;
+    height: 19em;
+    width: 21em;
+    position: absolute;
+    top: 40em;
+    right: 3em;
+    box-shadow: 8px 8px 8px 8px blanchedalmond;
+    font-weight: bolder;
+   
+}
+
+.allp2{
+background-color: palegreen;
+    height: 19em;
+    width: 21em;
+    position: absolute;
+    top: 40em;
+    right: 38.8em;
+    box-shadow: 8px 8px 8px 8px blanchedalmond;
+    font-weight: bolder;
+    
+
+   
+}
+
+.allp3{
+    background-color: salmon;
+    height: 19em;
+    width: 21em;
+    position: absolute;
+    top: 40em;
+    right: 74em;
+    box-shadow: 8px 8px 8px 8px blanchedalmond;
+    font-weight: bolder;
+}
+
+.ika{
+    position: absolute;
+    top: 62em;
+    padding-left: 1.5em;
+
+
+}
+.ika1{
+position: absolute;
+top: 22em;
+right: -4em;
+
+}
+.ioy{
+    text-decoration:black underline;
+}
+
+.ika2{
+    position: absolute;
+    top: 62em;
+    right: 1em;
+}
+.ioy{
+padding: 5em;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bgh{
+height: 15em;
+width: 100%;
+background-color: gray;
+position: absolute;
+top: 90em;
+
+}
+
+.fa-facebook{
+   font-size: 4em !important ;
+   text-indent: 1.5em;
+   position:absolute ;
+   bottom: 1em;
+   left: 3.5em;
+   
+}
+
+.fa-whatsapp{
+    font-size: 4em !important ;
+    color: green;
+    text-indent: 1.5em;
+    position:absolute ;
+    bottom: 1em;
+    left: 7em;
+  
+    
+}
+.fa-weixin{
+    font-size: 4em;
+    color: greenyellow;
+    text-indent: 1.5em;
+    position:absolute ;
+    bottom: 1em;
+    left: 11em;
+}
+.fa-youtube-play{
+    font-size: 4em !important ;
+    color: red;
+    text-indent: 1.5em;
+    position:absolute ;
+    bottom: 1em;
+    right: 7.5em;
+}
+
+.fa-twitter{
+    font-size: 4em !important ;
+    text-indent: 1.5em;
+    position:absolute ;
+    bottom: 1em;
+    right: 3.5em;
+
+
+}
+
+
+.myno{
+   position: absolute;
+   right: 1em;
+   top: -3em;
+
+}
+.qwer{
+    position: absolute;
+    right: 20em;
+    
+}
+
+.footer1{
+width: 100%;
+height: 15em;
+background-color: grey;
+position: absolute;
+top: 115em;
+
+}
+
+
+.fakes{
+    position: absolute;
+    right: 1em;
+    font-size: 3em;
+    bottom: 1.4em;
+}
+
+.address{
+    background-color: red;
+    width: 100%;
+    height: 3.8em;
+    position: absolute;
+    bottom: 0em;
+}
+
+    
+    
+
+
+
